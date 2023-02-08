@@ -1,1 +1,7 @@
 n = str(input("Insira seu nome: "))
+e = str(input("Insira seu endereço: "))
+cep = str(input("Insira seu CEP: "))
+tel = str(input("Insira seu telefone: "))
+print (n)
+print (e)
+print (cep , tel)
